@@ -38,10 +38,10 @@
 ```ts
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": false,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
@@ -55,7 +55,7 @@
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " 「  J21  」\nCreated By @J21"
 }
 ```
 
